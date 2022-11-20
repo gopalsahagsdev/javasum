@@ -1,4 +1,4 @@
-package com.company;
+package scientifigin;
 
 public class Main {
 
@@ -13,7 +13,7 @@ public class Main {
     }
 }
 
-package com.company;
+package scientifigin;
 
 public class Main {
 
